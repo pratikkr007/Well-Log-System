@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+lasio
+pandas
+numpy
+boto3
+openai
+python-multipart
+google-genai
